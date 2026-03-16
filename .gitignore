@@ -1,0 +1,13 @@
+# Abaikan file konfigurasi database (karena ada password)
+LocalSettings.php
+
+# Abaikan file sampah sistem
+.DS_Store
+Thumbs.db
+*~
+*.tmp
+*.log
+
+# Abaikan folder cache atau temporary
+/cache/
+/images/temp/
